@@ -4,6 +4,4 @@ for i in range(star):
         print(' ',end='')
     for k in range(star-i):
         print('*',end='')
-    
-    
     print('')
